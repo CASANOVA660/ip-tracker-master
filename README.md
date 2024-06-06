@@ -48,10 +48,6 @@ https://user-images.githubusercontent.com/51516375/130857965-c57eaeaf-ac65-40aa-
 
 The project was another small step in my Web Developer journey. It strengthened my skills in areas like API usage, React Hooks, and Tailwind CSS. 
 
-## Author
-
-- Website - [Chris Pantak](https://pantak.net)
-- Frontend Mentor - [@Kielx](https://www.frontendmentor.io/profile/Kielx)
 
 ## Acknowledgments
 
